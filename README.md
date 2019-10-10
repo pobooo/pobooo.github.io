@@ -1,11 +1,9 @@
 <table frame=void>
 <tbody>
 <tr>
-<td style="width: 168px;"><img src="img/qiang.jpeg" alt="" width="154" /></td>
-<td style="width: 495.2px;"><strong>刘强</strong> (<a style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.16px; line-height: 1.3em;" href="https://scholar.google.com/citations?user=qNGI9gEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>|<a style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.16px; line-height: 1.3em;" href="https://www.researchgate.net/profile/Qiang_Liu109" target="_blank" rel="noopener noreferrer">ResearchGate</a>)
+<td><img src="img/qiang.jpeg" alt="" width="154" /></td>
+<td><strong>刘强</strong> (<a href="https://scholar.google.com/citations?user=qNGI9gEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>|<a href="https://www.researchgate.net/profile/Qiang_Liu109" target="_blank" rel="noopener noreferrer">ResearchGate</a>)
 <p><em>Email: Q.L.Liu(a)hotmail.com</em></p>
-<!--<p><em>Tel:     +31 (0) 1527 83195</em></p>
-<p><em>Addr:  EWI HB 09.040</em><i>, Mekelweg 4, 2628 CD, Delft, The Netherlands</i></p>-->
 </td>
 </tr>
 </tbody>
