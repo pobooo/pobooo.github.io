@@ -44,7 +44,7 @@
 <li>IEEE Transactions on Computational Social Systems; Physica A; Scientific Report; IEEE Control Systems Letters; IEEE Transactions on Network Science and Engineering; Computer Physics Communications; IEEE Transactions on Evolutionary Computation; Journal of Complex Networks. </li>
 <li>USRR 16; American Control Conference 2019.</li>
 </ul>
-<h4><strong>Master thesis supervision:</strong></h4>
+<h3>Master thesis supervision:</h3>
 <ul>
 <li>Non-Markovian epidemic process on networks, Xiaoyu Zhou (started Feb. 2019)</li>
 <li>Modeling Influenza on networks, Aziz Hamad (Joint supervision with Long Ma, defended at 2018.12.20)</li>
