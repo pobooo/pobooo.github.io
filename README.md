@@ -1,5 +1,5 @@
 ## About
-[Qiang Liu](img/qiang.jpeg">
+[Qiang Liu](img/qiang.jpeg")
 Qiang Liu
 [Google Scholar](https://scholar.google.com/citations?user=qNGI9gEAAAAJ)|[ResearchGate](https://www.researchgate.net/profile/Qiang_Liu109)
 
