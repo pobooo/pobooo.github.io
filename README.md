@@ -6,7 +6,7 @@
 </td>
 </tr>
 </table>
-<h4>Education:</h4>
+<h3>Education:</h3>
 <ul>
 <li>2015-2019, Ph.D., Delft University of Technology, supervised by <a href="people/Piet/" target="_blank" rel="noopener noreferrer">Prof. Piet Van Mieghem</a>.</li>
 <li>2012-2015, M.Sc. (Cryptography), University of Electronic Science and Technology of China.</li>
