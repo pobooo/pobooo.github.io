@@ -50,7 +50,7 @@
 <li>Modeling Influenza on networks, Aziz Hamad (Joint supervision with Long Ma, defended at 2018.12.20)</li>
 <li>Network cut and epidemics, Yingli Ni (defended at 2017.08.29)</li>
 </ul>
-<h4>Interesting nodes in WWW:</h4>
+<h4><strong>Interesting nodes in WWW:</strong></h4>
 <ul>
 <li><a href="http://www.complexity-explorables.org/" target="_blank" rel="noopener noreferrer">Complexity Explorables</a></li>
 <li><a href="http://www.ph.ucla.edu/epi/snow.html" target="_blank" rel="noopener noreferrer">John Snow - a historical giant in epidemiology</a></li>
