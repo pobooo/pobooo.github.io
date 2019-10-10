@@ -1,6 +1,6 @@
 <table border="0">
 <tr>
-<td><img src="img/qiang.jpeg" alt="" width="154" /></td>
+<td><img src="img/qiang.jpeg" width="154" /></td>
 <td><strong>刘强</strong> (<a href="https://scholar.google.com/citations?user=qNGI9gEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>|<a href="https://www.researchgate.net/profile/Qiang_Liu109" target="_blank" rel="noopener noreferrer">ResearchGate</a>)
 <p><em>Email: Q.L.Liu(a)hotmail.com</em></p>
 </td>
@@ -14,8 +14,10 @@
 </ul>
 <h3>Research Interest:</h3>
 <p>The secrets of nature.</p>
-<h3>Ph.D. Dissertation:</h3>
-<p><a href="/publications/Dissertation Qiang Liu.pdf" target="_blank" rel="noopener noreferrer">Spreading on Networks</a><p>
+<h3>Ph.D. dissertation:</h3>
+<p><a href="/publications/Dissertation Qiang Liu.pdf" target="_blank" rel="noopener noreferrer">Spreading on Networks</a>
+<img src="img/logo.png" width="154" />
+<p>
 <h3>Publications:</h3>
 <ul>
 <li>L.Ma, <strong>Q. Liu</strong> and P. Van Mieghem, 2019, "<a href="https://www.nas.ewi.tudelft.nl/people/Piet/papers/AppliedNetworkScience2019_Inferring_properties_prevalence.pdf" target="_blank" rel="noopener noreferrer">Inferring network properties based on the epidemic prevalence</a>", Applied Network Science, to appear.</li>
