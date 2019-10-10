@@ -14,7 +14,7 @@
 </ul>
 <h3>Research Interest:</h3>
 <p>The secrets of nature.</p>
-<h3>Ph.D. dissertation:</h3>
+<h3>Dissertation:</h3>
 <p><a href="/publications/Dissertation Qiang Liu.pdf" target="_blank" rel="noopener noreferrer">Spreading on Networks</a><br>
 <img src="img/dissertation_cover.jpg" width="250" />
 <p>
