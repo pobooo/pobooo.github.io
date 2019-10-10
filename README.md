@@ -12,11 +12,11 @@
 <li>2012-2015, M.Sc. (Cryptography), University of Electronic Science and Technology of China.</li>
 <li>2008-2012, B.E. (Communication Engineering), University of Electronic Science and Technology of China.</li>
 </ul>
-<h4>Research Interest:</h4>
-<p> The secrets of nature.</p>
-<h4>Ph.D. Dissertation:</h4>
-<li><a href="/publications/Dissertation Qiang Liu.pdf" target="_blank" rel="noopener noreferrer">Spreading on Networks</a></li>
-<h4>Publications:</h4>
+<h3>Research Interest:</h3>
+<p>The secrets of nature.</p>
+<h3>Ph.D. Dissertation:</h3>
+<p><a href="/publications/Dissertation Qiang Liu.pdf" target="_blank" rel="noopener noreferrer">Spreading on Networks</a><p>
+<h3>Publications:</h3>
 <ul>
 <li>L.Ma, <strong>Q. Liu</strong> and P. Van Mieghem, 2019, "<a href="https://www.nas.ewi.tudelft.nl/people/Piet/papers/AppliedNetworkScience2019_Inferring_properties_prevalence.pdf" target="_blank" rel="noopener noreferrer">Inferring network properties based on the epidemic prevalence</a>", Applied Network Science, to appear.</li>
 <li>P. Van Mieghem and <strong>Q. Liu</strong>, "<a href="http://homepage.tudelft.nl/7e71w/publication/PhysRevE2019_Non_Markovian_SIS_gamma_weibull_lognormal.pdf" target="_blank" rel="noopener noreferrer">Explicit non-Markovian susceptible-infected-susceptible mean-field epidemic threshold for Weibull and Gamma infections but Poisson curings</a>", Physical Review E 100, 022317, Aug. 2019.</li>
@@ -29,7 +29,7 @@
 <li><b>Liu, Q. </b>and P. Van Mieghem, "<a href="/publications/Workshop_Complex_Networks2016_Die-out_probability.pdf" target="_blank" rel="noopener noreferrer">Die-out Probability in SIS Epidemic Processes on Networks</a>", Fifth International Workshop on Complex Networks and their Applications, Milan, Italy, Nov 30 - Dec 2, 2016.</li>
 <li>Guo, J.; Shi, Z.; Liu, Z.; Zhang, Z.; <strong>Liu, Q.</strong>, "<a href="http://homepage.tudelft.nl/7e71w/publication/2016-IEEE%20Comm.%20Lett.-Multi-CRC%20Polar%20Codes%20and%20Their%20Applications.pdf" target="_blank" rel="noopener noreferrer">Multi-CRC Polar Codes and Their Applications</a>," IEEE Communications Letters, vol.20, no.2, pp.212-215, Feb. 2016.</li>
 </ul>
-<h4><strong>Talks:</strong></h4>
+<h3>Talks:</h4>
 <ul>
 <li>Lake Como School of Advanced Studies: Complex Networks: Theory, Methods, and applications, "Network localization is unalterable by infections in bursts", Como, Italy, May 13-17, 2019.[<a href="http://homepage.tudelft.nl/7e71w/talks/NTME.pdf" target="_blank" rel="noopener noreferrer">slide</a>]</li>
 <li>Pengcheng laboratory, "The story of networks" (Poster), Shenzhen, China, Mar. 31, 2019.</li>
@@ -39,7 +39,7 @@
 <li>5th International Workshop on Complex Networks and their Applications, Milan, Italy, Nov 30 - Dec 2, 2016.</li>
 <li>"On the Accuracy of Time-dependent NIMFA Prevalence of SIS Epidemic Process", <a href="http://www.ccs2016.org" target="_blank" rel="noopener noreferrer">Conference on Complex Systems 2016</a>, Amsterdam, the Netherlands, Sep. 19-22, 2016.</li>
 </ul>
-<h4><strong>Referee for:</strong></h4>
+<h3>Referee for:</h3>
 <ul>
 <li>IEEE Transactions on Computational Social Systems; Physica A; Scientific Report; IEEE Control Systems Letters; IEEE Transactions on Network Science and Engineering; Computer Physics Communications; IEEE Transactions on Evolutionary Computation; Journal of Complex Networks. </li>
 <li>USRR 16; American Control Conference 2019.</li>
@@ -50,7 +50,7 @@
 <li>Modeling Influenza on networks, Aziz Hamad (Joint supervision with Long Ma, defended at 2018.12.20)</li>
 <li>Network cut and epidemics, Yingli Ni (defended at 2017.08.29)</li>
 </ul>
-<h4><strong>Interesting nodes in WWW:</strong></h4>
+<h3>Interesting nodes in WWW:</h3>
 <ul>
 <li><a href="http://www.complexity-explorables.org/" target="_blank" rel="noopener noreferrer">Complexity Explorables</a></li>
 <li><a href="http://www.ph.ucla.edu/epi/snow.html" target="_blank" rel="noopener noreferrer">John Snow - a historical giant in epidemiology</a></li>
