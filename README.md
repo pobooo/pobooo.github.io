@@ -1,5 +1,5 @@
 <body style="width:1000px; margin:0 auto;">
-<table style="height: 163px; width: 678px;">
+<table frame=void style="height: 163px; width: 678px;">
 <tbody>
 <tr>
 <td style="width: 168px;"><img src="img/qiang.jpeg" alt="" width="154" /></td>
