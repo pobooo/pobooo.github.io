@@ -1,4 +1,3 @@
-<body style="width:1000px; margin:0 auto;">
 <table frame=void>
 <tbody>
 <tr>
@@ -71,4 +70,3 @@
 <li><a href="https://idea-instructions.com/" target="_blank" rel="noopener noreferrer">IDEA - An ongoing series of nonverbal algorithm assembly instructions</a></li>
 <li><a href="http://netwonder.net/" target="_blank" rel="noopener noreferrer">WonderNet - (Virtual) Physicality of Networks</a></li>
 </ul>
-</body>
