@@ -1,4 +1,4 @@
-<table>
+<table frame="void">
 <tr>
 <td><img src="img/qiang.jpeg" alt="" width="154" /></td>
 <td><strong>刘强</strong> (<a href="https://scholar.google.com/citations?user=qNGI9gEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>|<a href="https://www.researchgate.net/profile/Qiang_Liu109" target="_blank" rel="noopener noreferrer">ResearchGate</a>)
