@@ -8,7 +8,7 @@
 </table>
 <h3>Education:</h3>
 <ul>
-<li>2015-2019, Ph.D., Delft University of Technology, supervised by <a href="people/Piet/" target="_blank" rel="noopener noreferrer">Prof. Piet Van Mieghem</a>.</li>
+<li>2015-2019, Ph.D., Delft University of Technology, supervised by <a href="https://www.nas.ewi.tudelft.nl/people/Piet/" target="_blank" rel="noopener noreferrer">Prof. Piet Van Mieghem</a>.</li>
 <li>2012-2015, M.Sc. (Cryptography), University of Electronic Science and Technology of China.</li>
 <li>2008-2012, B.E. (Communication Engineering), University of Electronic Science and Technology of China.</li>
 </ul>
@@ -29,7 +29,7 @@
 <li><b>Liu, Q. </b>and P. Van Mieghem, "<a href="/publications/Workshop_Complex_Networks2016_Die-out_probability.pdf" target="_blank" rel="noopener noreferrer">Die-out Probability in SIS Epidemic Processes on Networks</a>", Fifth International Workshop on Complex Networks and their Applications, Milan, Italy, Nov 30 - Dec 2, 2016.</li>
 <li>Guo, J.; Shi, Z.; Liu, Z.; Zhang, Z.; <strong>Liu, Q.</strong>, "<a href="http://homepage.tudelft.nl/7e71w/publication/2016-IEEE%20Comm.%20Lett.-Multi-CRC%20Polar%20Codes%20and%20Their%20Applications.pdf" target="_blank" rel="noopener noreferrer">Multi-CRC Polar Codes and Their Applications</a>," IEEE Communications Letters, vol.20, no.2, pp.212-215, Feb. 2016.</li>
 </ul>
-<h3>Talks:</h4>
+<h3>Talks:</h3>
 <ul>
 <li>Lake Como School of Advanced Studies: Complex Networks: Theory, Methods, and applications, "Network localization is unalterable by infections in bursts", Como, Italy, May 13-17, 2019.[<a href="http://homepage.tudelft.nl/7e71w/talks/NTME.pdf" target="_blank" rel="noopener noreferrer">slide</a>]</li>
 <li>Pengcheng laboratory, "The story of networks" (Poster), Shenzhen, China, Mar. 31, 2019.</li>
