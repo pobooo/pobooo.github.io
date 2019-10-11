@@ -1,6 +1,6 @@
 <html>
 
-<body style=font-size: 80%>
+<body style=font-size:14px>
 <table border="0">
 <tr>
 <td><img src="img/qiang.jpeg" width="154" /></td>
