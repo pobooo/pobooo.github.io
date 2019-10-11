@@ -1,9 +1,8 @@
 <html>
 <head>
 <style type="text/css">
-h1 {font-size: 80%}
-h2 {font-size: 80%}
-p {font-size: 80%}
+body {font-size: 80%}
+
 </style>
 </head>
 <body>
