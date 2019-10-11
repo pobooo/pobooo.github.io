@@ -1,4 +1,12 @@
-<body font-size="small">
+<html>
+<head>
+<style type="text/css">
+h1 {font-size: 80%}
+h2 {font-size: 80%}
+p {font-size: 80%}
+</style>
+</head>
+<body>
 <table border="0">
 <tr>
 <td><img src="img/qiang.jpeg" width="154" /></td>
@@ -72,3 +80,4 @@
 <li><a href="http://netwonder.net/" target="_blank" rel="noopener noreferrer">WonderNet - (Virtual) Physicality of Networks</a></li>
 </ul>
 </body>
+</html>
