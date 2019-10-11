@@ -2,7 +2,7 @@
 <table border="0">
 <tr>
 <td><img src="img/qiang.jpeg" width="154" /></td>
-<td><strong>刘强</strong> (<a href="https://scholar.google.com/citations?user=qNGI9gEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>|<a href="https://www.researchgate.net/profile/Qiang_Liu109" target="_blank" rel="noopener noreferrer">ResearchGate</a>)
+<td><strong>刘强</strong> (<a href="https://scholar.google.com/citations?user=qNGI9gEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>|<a href="https://www.researchgate.net/profile/Qiang_Liu109" target="_blank" rel="noopener noreferrer">ResearchGate</a>|<a href="https://www.researchgate.net/profile/Qiang_Liu109" target="_blank" rel="noopener noreferrer">Page in TU Delft</a>)
 <p><em>Email: Q.L.Liu(a)hotmail.com</em></p>
 <p><em>Tel: +31 06455 78850</em></p>
 <p><em>Addr: EWI HB 09.040, Mekelweg 4, 2628 CD, Delft, The Netherlands</em></p>
