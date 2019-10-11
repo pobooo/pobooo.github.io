@@ -1,6 +1,3 @@
-<html>
-
-<body>
 <font size="3">
 <table border="0">
 <tr>
@@ -74,5 +71,3 @@
 <li><a href="http://netwonder.net/" target="_blank" rel="noopener noreferrer">WonderNet - (Virtual) Physicality of Networks</a></li>
 </ul>
 </font>
-</body>
-</html>
