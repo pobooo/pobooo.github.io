@@ -1,5 +1,9 @@
 <html>
-
+<style type="text/css">
+body{
+    font-size: 80%;
+  }
+</style>
 <body style=font-size:14px>
 <table border="0">
 <tr>
