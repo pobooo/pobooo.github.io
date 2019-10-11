@@ -1,10 +1,10 @@
 <html>
 <style type="text/css">
 body{
-    font-size: 80%;
+    font-size: 14px;
   }
 </style>
-<body style=font-size:14px>
+<body>
 <table border="0">
 <tr>
 <td><img src="img/qiang.jpeg" width="154" /></td>
