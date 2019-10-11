@@ -3,12 +3,14 @@
 <td><img src="img/qiang.jpeg" width="154" /></td>
 <td><strong>刘强</strong> (<a href="https://scholar.google.com/citations?user=qNGI9gEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>|<a href="https://www.researchgate.net/profile/Qiang_Liu109" target="_blank" rel="noopener noreferrer">ResearchGate</a>)
 <p><em>Email: Q.L.Liu(a)hotmail.com</em></p>
+<p><em>Tel: +31 06455 78850</em></p>
+<p><em>Addr: EWI HB 09.040, Mekelweg 4, 2628 CD, Delft, The Netherlands</em></p>
 </td>
 </tr>
 </table>
 <h3>Education:</h3>
 <ul>
-<li>2015-2019, Ph.D., Delft University of Technology, supervised by <a href="https://www.nas.ewi.tudelft.nl/people/Piet/" target="_blank" rel="noopener noreferrer">Prof. Piet Van Mieghem</a>.</li>
+<li>2015-2019, Ph.D. (defense date 10.31 at 10:00), Delft University of Technology, supervised by <a href="https://www.nas.ewi.tudelft.nl/people/Piet/" target="_blank" rel="noopener noreferrer">Prof. Piet Van Mieghem</a>.</li>
 <li>2012-2015, M.Sc. (Cryptography), University of Electronic Science and Technology of China.</li>
 <li>2008-2012, B.E. (Communication Engineering), University of Electronic Science and Technology of China.</li>
 </ul>
