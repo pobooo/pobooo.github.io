@@ -15,8 +15,8 @@
 <li>2012-2015, M.Sc. (Cryptography), University of Electronic Science and Technology of China.</li>
 <li>2008-2012, B.E. (Communication Engineering), University of Electronic Science and Technology of China.</li>
 </ul>
-<h3><strong>Research Interest:</strong></h3>
-<p>The secrets of nature.</p>
+<!--<h3><strong>Research Interest:</strong></h3>
+<p>The secrets of nature.</p>-->
 <h3><strong>Dissertation:</strong></h3>
 <p><a href="/publications/Dissertation Qiang Liu.pdf" target="_blank" rel="noopener noreferrer">Spreading on Networks</a> <br> <img src="img/dissertation_cover.jpg" width="300" />
 <p>
