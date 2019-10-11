@@ -35,11 +35,11 @@
 </ul>
 <h3><strong>Talks:</strong></h3>
 <ul>
-<li>Lake Como School of Advanced Studies: Complex Networks: Theory, Methods, and applications, "Network localization is unalterable by infections in bursts", Como, Italy, May 13-17, 2019.[<a href="http://homepage.tudelft.nl/7e71w/talks/NTME.pdf" target="_blank" rel="noopener noreferrer">slide</a>]</li>
+<li>Lake Como School of Advanced Studies: Complex Networks: Theory, Methods, and applications, "Network localization is unalterable by infections in bursts", Como, Italy, May 13-17, 2019.[<a href="/talks/NTME.pdf" target="_blank" rel="noopener noreferrer">slide</a>]</li>
 <li>Pengcheng laboratory, "The story of networks" (Poster), Shenzhen, China, Mar. 31, 2019.</li>
 <li>VU Medical Center clinical neurophysiology group meeting, "Recently developed methods for networked data", Amsterdam, Nov. 26, 2018.</li>
-<li>NetSciX18, Hangzhou, China, Jan 5-8, 2018. [<a title="Synchronized SIS process and a possibly largest non-Markovian threshold" href="http://homepage.tudelft.nl/7e71w/talks/NetSciX18Hangzhou.pdf" target="_blank" rel="noopener noreferrer">slide</a>]</li>
-<li>6th International Conference on Complex Networks and their Applications, Lyon, France, Nov 29 - Dec 1, 2017. [<a title="Synchronized SIS process and a possibly largest non-Markovian threshold" href="http://homepage.tudelft.nl/7e71w/talks/complexnetworks17Lyon.pdf" target="_blank" rel="noopener noreferrer">slide</a>][<a href="http://audiovideocast.univ-lyon2.fr/avc/courseaccess?id=1781" target="_blank" rel="noopener noreferrer">video</a>]</li>
+<li>NetSciX18, Hangzhou, China, Jan 5-8, 2018. [<a title="Synchronized SIS process and a possibly largest non-Markovian threshold" href="/talks/NetSciX18Hangzhou.pdf" target="_blank" rel="noopener noreferrer">slide</a>]</li>
+<li>6th International Conference on Complex Networks and their Applications, Lyon, France, Nov 29 - Dec 1, 2017. [<a title="Synchronized SIS process and a possibly largest non-Markovian threshold" href="/talks/complexnetworks17Lyon.pdf" target="_blank" rel="noopener noreferrer">slide</a>][<a href="http://audiovideocast.univ-lyon2.fr/avc/courseaccess?id=1781" target="_blank" rel="noopener noreferrer">video</a>]</li>
 <li>5th International Workshop on Complex Networks and their Applications, Milan, Italy, Nov 30 - Dec 2, 2016.</li>
 <li>"On the Accuracy of Time-dependent NIMFA Prevalence of SIS Epidemic Process", <a href="http://www.ccs2016.org" target="_blank" rel="noopener noreferrer">Conference on Complex Systems 2016</a>, Amsterdam, the Netherlands, Sep. 19-22, 2016.</li>
 </ul>
