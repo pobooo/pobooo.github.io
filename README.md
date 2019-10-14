@@ -15,8 +15,6 @@
 <li>2012-2015, M.Sc. (Cryptography), University of Electronic Science and Technology of China.</li>
 <li>2008-2012, B.E. (Communication Engineering), University of Electronic Science and Technology of China.</li>
 </ul>
-<!--<h3><strong>Research Interest:</strong></h3>
-<p>The secrets of nature.</p>-->
 <h3><strong>Dissertation:</strong></h3>
 <p><a href="/publications/Dissertation_Qiang_Liu.pdf" target="_blank" rel="noopener noreferrer">Spreading on Networks</a> <br> <img src="img/dissertation_cover.jpg" width="300" />
 <p>
@@ -43,7 +41,7 @@
 <li>6th International Conference on Complex Networks and their Applications, Lyon, France, Nov 29 - Dec 1, 2017. [<a title="Synchronized SIS process and a possibly largest non-Markovian threshold" href="/talks/complexnetworks17Lyon.pdf" target="_blank" rel="noopener noreferrer">slide</a>][<a href="http://audiovideocast.univ-lyon2.fr/avc/courseaccess?id=1781" target="_blank" rel="noopener noreferrer">video</a>]</li>
 <li>5th International Workshop on Complex Networks and their Applications, Milan, Italy, Nov 30 - Dec 2, 2016.</li>
 <li>"On the Accuracy of Time-dependent NIMFA Prevalence of SIS Epidemic Process", <a href="http://www.ccs2016.org" target="_blank" rel="noopener noreferrer">Conference on Complex Systems 2016</a>, Amsterdam, the Netherlands, Sep. 19-22, 2016.</li>
-  </ul>
+</ul>
 <h3><strong>Referee for:</strong></h3>
 <ul>
 <li>IEEE Transactions on Computational Social Systems; Physica A; Scientific Report; IEEE Control Systems Letters; IEEE Transactions on Network Science and Engineering; Computer Physics Communications; IEEE Transactions on Evolutionary Computation; Journal of Complex Networks. </li>
