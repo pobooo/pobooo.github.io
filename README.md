@@ -55,6 +55,7 @@
 </ul>
 <h3><strong>Interesting nodes in WWW:</strong></h3>
 <ul>
+<li><a href="http://snap.stanford.edu/proj/embeddings-www/" target="_blank" rel="noopener noreferrer">Representation Learning on Networks</a></li>
 <li><a href="http://www.complexity-explorables.org/" target="_blank" rel="noopener noreferrer">Complexity Explorables</a></li>
 <li><a href="http://www.ph.ucla.edu/epi/snow.html" target="_blank" rel="noopener noreferrer">John Snow - a historical giant in epidemiology</a></li>
 <li><a href="http://www.feynmanlectures.caltech.edu/" target="_blank" rel="noopener noreferrer">The Feynman Lectures on Physics</a></li>
