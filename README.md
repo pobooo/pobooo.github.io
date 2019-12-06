@@ -20,7 +20,7 @@
 <p>
 <h3><strong>Publications:</strong></h3>
 <ul>
-<li>L.Ma, <strong>Q. Liu</strong> and P. Van Mieghem, 2019, "<a href="/publications/Ma2019_Article_InferringNetworkPropertiesBase.pdf" target="_blank" rel="noopener noreferrer">Inferring network properties based on the epidemic prevalence</a>", Applied Network Science, 4:93, 2019</li>.
+<li>L.Ma, <strong>Q. Liu</strong> and P. Van Mieghem, 2019, "<a href="/publications/Ma2019_Article_InferringNetworkPropertiesBase.pdf" target="_blank" rel="noopener noreferrer">Inferring network properties based on the epidemic prevalence</a>", Applied Network Science, 4:93, 2019.</li>
  <li><strong>Q. Liu</strong>, X. Zhou and P. Van Mieghem, "<a href="/publications/EPL2019_pulseSIS_strategy.pdf" target="_blank" rel="noopener noreferrer">Pulse strategy for suppressing spreading on networks</a>," EPL (Europhysics Letters) 127, 38001, Sep. 2019.</li>
 <li>P. Van Mieghem and <strong>Q. Liu</strong>, "<a href="/publications/PhysRevE2019_Non_Markovian_SIS_gamma_weibull_lognormal.pdf" target="_blank" rel="noopener noreferrer">Explicit non-Markovian susceptible-infected-susceptible mean-field epidemic threshold for Weibull and Gamma infections but Poisson curings</a>", Physical Review E 100, 022317, Aug. 2019.</li>
 <li>Y. Xu, Y. Si, J. Takekawa, <strong>Q. Liu</strong>, H. H. T. Prins, S. Yin, D. Prosser, P. Gong and W. F. de Boer, "<a href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/cobi.13383" target="_blank" rel="noopener noreferrer">A network approach to prioritize conservation efforts for migratory birds</a>", Conservation Biology, 2019, online.</li>
