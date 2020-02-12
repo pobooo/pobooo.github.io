@@ -10,7 +10,7 @@
 </table>
 <h3><strong>Employment:</strong></h3>
 <ul>
-<li>2020-present, Senior Applied Researcher at Tencent (Interactive Entertainment Group, IEG).</li>
+<li>2020-present, Senior Researcher at Tencent (Interactive Entertainment Group, IEG).</li>
 </ul>
 <h3><strong>Education:</strong></h3>
 <ul>
