@@ -8,10 +8,6 @@
 </td>
 </tr>
 </table>
-<h3><strong>Employment:</strong></h3>
-<ul>
-<li>2020-present, Senior Researcher at Tencent (Interactive Entertainment Group, IEG).</li>
-</ul>
 <h3><strong>Education:</strong></h3>
 <ul>
 <li>2015-2019, Ph.D., Delft University of Technology, supervised by <a href="https://www.nas.ewi.tudelft.nl/people/Piet/" target="_blank" rel="noopener noreferrer">Prof. Piet Van Mieghem</a>.</li>
@@ -21,6 +17,10 @@
 <h3><strong>Dissertation:</strong></h3>
 <p><a href="/publications/Dissertation_Qiang_Liu.pdf" target="_blank" rel="noopener noreferrer">Spreading on Networks</a> <br> <img src="img/dissertation_cover.jpg" width="300" />
 <p>
+<h3><strong>Employment:</strong></h3>
+<ul>
+<li>2020-present, Senior Researcher at Tencent (Interactive Entertainment Group, IEG).</li>
+</ul>
 <h3><strong>Publications:</strong></h3>
 <ul>
 <li>L.Ma, <strong>Q. Liu</strong> and P. Van Mieghem, 2019, "<a href="/publications/Ma2019_Article_InferringNetworkPropertiesBase.pdf" target="_blank" rel="noopener noreferrer">Inferring network properties based on the epidemic prevalence</a>", Applied Network Science, 4:93, 2019.</li>
