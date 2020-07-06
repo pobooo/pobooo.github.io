@@ -53,7 +53,7 @@
 </ul>
 <h3><strong>Master thesis supervision:</strong></h3>
 <ul>
-<li>Non-Markovian epidemic process on networks, Xiaoyu Zhou (started Feb. 2019)</li>
+<li>Non-Markovian epidemic process on networks, Xiaoyu Zhou (defended at Dec. 2019)</li>
 <li>Modeling Influenza on networks, Aziz Hamad (Joint supervision with Long Ma, defended at 2018.12.20)</li>
 <li>Network cut and epidemics, Yingli Ni (defended at 2017.08.29)</li>
 </ul>
