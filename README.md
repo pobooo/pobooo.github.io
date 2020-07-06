@@ -48,7 +48,7 @@
 </ul>
 <h3><strong>Referee for:</strong></h3>
 <ul>
-<li>IEEE Transactions on Computational Social Systems; Physica A; Scientific Report; IEEE Control Systems Letters; IEEE Transactions on Network Science and Engineering; Computer Physics Communications; IEEE Transactions on Evolutionary Computation; Journal of Complex Networks. </li>
+<li>IEEE Transactions on Computational Social Systems; Physica A; Scientific Report; IEEE Control Systems Letters; IEEE Transactions on Network Science and Engineering; Computer Physics Communications; IEEE Transactions on Evolutionary Computation; Journal of Complex Networks; IEEE/ACM Transactions on Computational Biology and Bioinformatics. </li>
 <li>USRR 16; American Control Conference 2019.</li>
 </ul>
 <h3><strong>Master thesis supervision:</strong></h3>
