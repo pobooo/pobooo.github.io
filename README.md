@@ -34,6 +34,10 @@
 <li><b>Liu, Q. </b>and P. Van Mieghem, "<a href="/publications/Workshop_Complex_Networks2016_Die-out_probability.pdf" target="_blank" rel="noopener noreferrer">Die-out Probability in SIS Epidemic Processes on Networks</a>", Fifth International Workshop on Complex Networks and their Applications, Milan, Italy, Nov 30 - Dec 2, 2016.</li>
 <li>Guo, J.; Shi, Z.; Liu, Z.; Zhang, Z.; <strong>Liu, Q.</strong>, "<a href="/publications/2016-IEEE Comm. Lett.-Multi-CRC Polar Codes and Their Applications.pdf" target="_blank" rel="noopener noreferrer">Multi-CRC Polar Codes and Their Applications</a>," IEEE Communications Letters, vol.20, no.2, pp.212-215, Feb. 2016.</li>
 </ul>
+<h3><strong>Reports:</strong></h3>
+<ul>
+<li>P. Van Mieghem, M. A. Achterberg, <strong>Q. Liu</strong>, 2019, "<a href="https://www.nas.ewi.tudelft.nl/people/Piet/papers/TUD20201201_non-Markovian_time.pdf" target="_blank" rel="noopener noreferrer">Power-law decay in epidemics is likely due to interactions with the time-variant contact graph</a>"Delft University of Technology, report20201201.</li>
+</ul>
 <h3><strong>Talks:</strong></h3>
 <ul>
 <li>Shaanxi Normal University, "Spreading on Networks", Xi'an, Jan. 3, 2020.</li>
