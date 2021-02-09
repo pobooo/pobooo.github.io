@@ -36,7 +36,7 @@
 </ul>
 <h3><strong>Reports:</strong></h3>
 <ul>
-<li>P. Van Mieghem, M. A. Achterberg, <strong>Q. Liu</strong>, 2020, "<a href="https://www.nas.ewi.tudelft.nl/people/Piet/papers/TUD20201201_non-Markovian_time.pdf" target="_blank" rel="noopener noreferrer">Power-law decay in epidemics is likely due to interactions with the time-variant contact graph</a>"Delft University of Technology, report20201201.</li>
+<li>P. Van Mieghem, M. A. Achterberg, <strong>Q. Liu</strong>, 2020, "<a href="https://www.nas.ewi.tudelft.nl/people/Piet/papers/TUD20201201_non-Markovian_time.pdf" target="_blank" rel="noopener noreferrer">Power-law decay in epidemics is likely due to interactions with the time-variant contact graph</a>", Delft University of Technology, report20201201.</li>
 </ul>
 <h3><strong>Talks:</strong></h3>
 <ul>
