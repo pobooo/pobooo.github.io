@@ -36,6 +36,9 @@
 </ul>
 <h3><strong>Reports:</strong></h3>
 <ul>
+<li>Liang Yao, <strong>Q. Liu</strong>, Hongyun Cai, Shengong Ji, Feng He, Xu Cheng, 2022, "<a href="https://github.com/yao8839836/ogb_report/blob/main/ogb_report.pdf" target="_blank" rel="noopener noreferrer">Technical Report for OGB Link Property Prediction</a>".</li>
+</ul>
+<ul>
 <li>P. Van Mieghem, M. A. Achterberg, <strong>Q. Liu</strong>, 2020, "<a href="https://www.nas.ewi.tudelft.nl/people/Piet/papers/TUD20201201_non-Markovian_time.pdf" target="_blank" rel="noopener noreferrer">Power-law decay in epidemics is likely due to interactions with the time-variant contact graph</a>", Delft University of Technology, report20201201.</li>
 </ul>
 <h3><strong>Talks:</strong></h3>
