@@ -23,6 +23,7 @@
 </ul>
 <h3><strong>Publications:</strong></h3>
 <ul>
+<li><strong>Q. Liu</strong>, 2022, "<a href="https://arxiv.org/pdf/2211.08738.pdf" target="_blank" rel="noopener noreferrer">Distributed Node Covering Optimization for Large Scale Networks and Its Application on Social Advertising</a>", arXiv:2211.08738.</li>
 <li>L.Ma, <strong>Q. Liu</strong> and P. Van Mieghem, 2019, "<a href="/publications/Ma2019_Article_InferringNetworkPropertiesBase.pdf" target="_blank" rel="noopener noreferrer">Inferring network properties based on the epidemic prevalence</a>", Applied Network Science, 4:93, 2019.</li>
  <li><strong>Q. Liu</strong>, X. Zhou and P. Van Mieghem, "<a href="/publications/EPL2019_pulseSIS_strategy.pdf" target="_blank" rel="noopener noreferrer">Pulse strategy for suppressing spreading on networks</a>," EPL (Europhysics Letters) 127, 38001, Sep. 2019.</li>
 <li>P. Van Mieghem and <strong>Q. Liu</strong>, "<a href="/publications/PhysRevE2019_Non_Markovian_SIS_gamma_weibull_lognormal.pdf" target="_blank" rel="noopener noreferrer">Explicit non-Markovian susceptible-infected-susceptible mean-field epidemic threshold for Weibull and Gamma infections but Poisson curings</a>", Physical Review E 100, 022317, Aug. 2019.</li>
