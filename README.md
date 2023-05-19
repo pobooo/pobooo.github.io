@@ -23,7 +23,7 @@
 </ul>
 <h3><strong>Publications:</strong></h3>
 <ul>
-<li>L. Yao, J. Peng, S. Ji, <strong>Q. Liu</strong>, H. Cai, F. He and X. Cheng, "<a href="https://arxiv.org/pdf/2302.10043.pdf" target="_blank" rel="noopener noreferrer">Friend Ranking in Online Games via Pre-training Edge Transformers</a>", arXiv:2211.08738, accepted by SIGIR’23.</li>
+<li>L. Yao, J. Peng, S. Ji, <strong>Q. Liu</strong>, H. Cai, F. He and X. Cheng, "<a href="https://arxiv.org/pdf/2302.10043.pdf" target="_blank" rel="noopener noreferrer">Friend Ranking in Online Games via Pre-training Edge Transformers</a>", arXiv:2302.10043, accepted by SIGIR’23.</li>
 <li><strong>Q. Liu</strong>, 2022, "<a href="https://arxiv.org/pdf/2211.08738.pdf" target="_blank" rel="noopener noreferrer">Distributed Node Covering Optimization for Large Scale Networks and Its Application on Social Advertising</a>", arXiv:2211.08738.</li>
 <li>L.Ma, <strong>Q. Liu</strong> and P. Van Mieghem, 2019, "<a href="/publications/Ma2019_Article_InferringNetworkPropertiesBase.pdf" target="_blank" rel="noopener noreferrer">Inferring network properties based on the epidemic prevalence</a>", Applied Network Science, 4:93, 2019.</li>
  <li><strong>Q. Liu</strong>, X. Zhou and P. Van Mieghem, "<a href="/publications/EPL2019_pulseSIS_strategy.pdf" target="_blank" rel="noopener noreferrer">Pulse strategy for suppressing spreading on networks</a>," EPL (Europhysics Letters) 127, 38001, Sep. 2019.</li>
