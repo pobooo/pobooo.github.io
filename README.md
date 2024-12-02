@@ -45,7 +45,8 @@
 </ul>
 <h3><strong>Talks:</strong></h3>
 <ul>
-<li>Shaanxi Normal University, "Spreading on Networks", Xi'an, Jan. 3, 2020.</li>
+<li>Shenzhen University, "Does AI Play Dice", Shenzhen, China, Nov. 29, 2024.[<a href="/talks/Does_GPT_Play_Dice.pdf" target="_blank" rel="noopener noreferrer">slide</a>]</li>
+<li>Shaanxi Normal University, "Spreading on Networks", Xi'an, China, Jan. 3, 2020.</li>
 <li>Amsterdam UMC, "Spreading on Networks", Amsterdam, Sep. 23, 2019. [<a href="/talks/VUMC_spreading_on_networks.pdf" target="_blank" rel="noopener noreferrer">slide</a>]</li>
 <li>Lake Como School of Advanced Studies: Complex Networks: Theory, Methods, and applications, "Network localization is unalterable by infections in bursts", Como, Italy, May 13-17, 2019. [<a href="/talks/NTME.pdf" target="_blank" rel="noopener noreferrer">slide</a>]</li>
 <li>Pengcheng laboratory, "The story of networks" (Poster), Shenzhen, China, Mar. 31, 2019.</li>
