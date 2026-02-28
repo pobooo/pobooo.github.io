@@ -69,6 +69,7 @@
 <li>Modeling Influenza on networks, Aziz Hamad (Joint supervision with Long Ma, defended at 2018.12.20)</li>
 <li>Network cut and epidemics, Yingli Ni (defended at 2017.08.29)</li>
 </ul>
+<!-- 
 <h3><strong>Interesting nodes in WWW:</strong></h3>
 <ul>
 <li><a href="http://snap.stanford.edu/proj/embeddings-www/" target="_blank" rel="noopener noreferrer">Representation Learning on Networks</a></li>
@@ -86,3 +87,4 @@
 <li><a href="https://idea-instructions.com/" target="_blank" rel="noopener noreferrer">IDEA - An ongoing series of nonverbal algorithm assembly instructions</a></li>
 <li><a href="http://netwonder.net/" target="_blank" rel="noopener noreferrer">WonderNet - (Virtual) Physicality of Networks</a></li>
 </ul>
+-->
