@@ -40,7 +40,7 @@
 </ul>
 <h3><strong>Technical Reports:</strong></h3>
 <ul>
-<li><strong>Q. Liu</strong>, 2026, "<a href="/jev-dice/" target="_blank" rel="noopener noreferrer">Does Jev Play Dice? Systematic Bias in Non-deterministic Decisions</a>". [<a href="https://github.com/pobooo/jev-dice" target="_blank" rel="noopener noreferrer">code</a>]</li>
+<li><strong>Q. Liu</strong>, 2026, "<a href="https://qiangliu.net/jev-dice/" target="_blank" rel="noopener noreferrer">Does Jev Play Dice? Systematic Bias in Non-deterministic Decisions</a>". [<a href="https://github.com/pobooo/jev-dice" target="_blank" rel="noopener noreferrer">code</a>]</li>
 <li><strong>Q. Liu</strong>, 2024, "<a href="/publications/Does_GPT_Play_Dice.pdf" target="_blank" rel="noopener noreferrer">Does GPT-4 Play Dice?</a>", ChinaXiv:202402.00204.</li>
 <li>L. Yao, J. Peng, <strong>Q. Liu</strong>, H. Cai, S. Ji, F. He, X. Cheng, 2022, "<a href="https://github.com/yao8839836/ogb_report/blob/main/StarGraph_Text/wikikg2_report.pdf" target="_blank" rel="noopener noreferrer">Technical Report for OGB Link Property Prediction: ogbl-wikikg2</a>".</li>
 <li>L. Yao, <strong>Q. Liu</strong>, H. Cai, S. Ji, F. He, X. Cheng, 2022, "<a href="https://github.com/yao8839836/ogb_report/blob/main/ogb_report.pdf" target="_blank" rel="noopener noreferrer">Technical Report for OGB Link Property Prediction</a>".</li>
