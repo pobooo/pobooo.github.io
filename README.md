@@ -48,6 +48,7 @@
 </ul>
 <h3><strong>Demos:</strong></h3>
 <ul>
+<li><strong>Q. Liu</strong>, 2026, "<a href="https://qiangliu.net/sis-network-viz/pulse.html" target="_blank" rel="noopener noreferrer">Pulse Strategy for Suppressing Spreading on Networks</a>", interactive visualization. [<a href="https://github.com/pobooo/sis-network-viz" target="_blank" rel="noopener noreferrer">code</a>]</li>
 <li><strong>Q. Liu</strong>, 2026, "<a href="https://qiangliu.net/sis-network-viz/" target="_blank" rel="noopener noreferrer">SIS Epidemics on Networks: Markovian and Non-Markovian Spreading</a>", interactive visualization. [<a href="https://github.com/pobooo/sis-network-viz" target="_blank" rel="noopener noreferrer">code</a>]</li>
 <li><strong>Q. Liu</strong>, 2026, "<a href="https://qiangliu.net/reverse-vs-forward-kl-viz/" target="_blank" rel="noopener noreferrer">Reverse vs Forward KL: Multi-Modal Gaussian Fitting</a>", interactive visualization. [<a href="https://github.com/pobooo/reverse-vs-forward-kl-viz" target="_blank" rel="noopener noreferrer">code</a>]</li>
 </ul>
