@@ -46,6 +46,10 @@
 <li>L. Yao, <strong>Q. Liu</strong>, H. Cai, S. Ji, F. He, X. Cheng, 2022, "<a href="https://github.com/yao8839836/ogb_report/blob/main/ogb_report.pdf" target="_blank" rel="noopener noreferrer">Technical Report for OGB Link Property Prediction</a>".</li>
 <li>P. Van Mieghem, M. A. Achterberg, <strong>Q. Liu</strong>, 2020, "<a href="https://www.nas.ewi.tudelft.nl/people/Piet/papers/TUD20201201_non-Markovian_time.pdf" target="_blank" rel="noopener noreferrer">Power-law decay in epidemics is likely due to interactions with the time-variant contact graph</a>", Delft University of Technology, report20201201.</li>
 </ul>
+<h3><strong>Demos:</strong></h3>
+<ul>
+<li><strong>Q. Liu</strong>, 2026, "<a href="https://qiangliu.net/reverse-vs-forward-kl-viz/" target="_blank" rel="noopener noreferrer">Reverse vs Forward KL: Multi-Modal Gaussian Fitting</a>", interactive visualization. [<a href="https://github.com/pobooo/reverse-vs-forward-kl-viz" target="_blank" rel="noopener noreferrer">code</a>]</li>
+</ul>
 <h3><strong>Talks:</strong></h3>
 <ul>
 <li>Shenzhen University, "Does AI Play Dice?", Shenzhen, China, Nov. 29, 2024.[<a href="/talks/Does%20AI%20Play%20Dice.pdf" target="_blank" rel="noopener noreferrer">slide</a>]</li>
